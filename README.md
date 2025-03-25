@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/raop155" target="blank"><img src="https://img.shields.io/twitter/follow/raop155?logo=twitter&style=for-the-badge" alt="raop155" /></a> </p>
 
-- 🌱 I’m currently learning **Systems Design**
-
 - 👨‍💻 My portfolio [https://www.raop155.com/](https://www.raop155.com/)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **React, JavaScript, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

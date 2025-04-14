@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/raop155" target="blank"><img src="https://img.shields.io/twitter/follow/raop155?logo=twitter&style=for-the-badge" alt="raop155" /></a> </p>
 
-- 👨‍💻 My portfolio [https://www.raop155.com/](https://www.raop155.com/)
+- 👨‍💻 My portfolio [https://www.raop.dev/](https://www.raop.dev/)
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
